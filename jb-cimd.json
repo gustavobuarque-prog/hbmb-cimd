@@ -1,0 +1,18 @@
+{
+ "client_id": "https://gustavobuarque-prog.github.io/hbmb-cimd/jb-cimd.json",
+ "client_name": "HBMB Advogados - OpenWork",
+ "client_uri": "https://app.openworklabs.com",
+ "application_type": "native",
+ "redirect_uris": [
+  "http://127.0.0.1:19922/callback"
+ ],
+ "grant_types": [
+  "authorization_code",
+  "refresh_token"
+ ],
+ "response_types": [
+  "code"
+ ],
+ "token_endpoint_auth_method": "none",
+ "scope": "busca:read"
+}
